@@ -1,14 +1,21 @@
-### Hello!👋 My name is Apollobing, welcome to my github profile!:computer:
+### Hello!👋 My name is Taras Berezin, welcome to my github profile! :computer:
 #### My info:
 * I'm a programmer;
 * I develop backend apps on [Java](https://www.java.com/);
-* I have a computer degree.
+* I have an university computer degree.
 
 -----------
 #### Core technologies:
-> ![Java](https://img.shields.io/badge/Java-%3E%3D%208-orange) 
+> ![Java](https://img.shields.io/badge/Java-%3E%3D%208-orange)
+![Spring](https://img.shields.io/badge/Spring-%3E%3D%205.0-green)
 ![Maven](https://img.shields.io/badge/Maven-3-red)
+![JUnit](https://img.shields.io/badge/JUnit-5-green)
+![Docker](https://img.shields.io/badge/Docker-4-blue)
+![Hibernate](https://img.shields.io/badge/Hibernate-%3E%3D%205.0-yellow)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%3E%3D%2014-blue)
+![Liquibase](https://img.shields.io/badge/Liquibase-%3E%3D%204.0-red)
+![HTML](https://img.shields.io/badge/HTML-5-orange)
+![CSS](https://img.shields.io/badge/CSS-3-blue)
 
 #### Here is my stats:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=apollobing&hide=stars,prs,issues,contribs)
