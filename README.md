@@ -18,8 +18,8 @@
 ![CSS](https://img.shields.io/badge/CSS-3-blue)
 
 #### Here is my stats:
-![Github stats](https://github-readme-stats.vercel.app/api?username=apollobing&hide=stars,prs,issues,contribs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apollobing&layout=compact)](https://github.com/ShamRail/github-readme-stats)
+![Github stats](https://github-readme-stats-fast.vercel.app/api?username=apollobing&hide=stars,prs,issues,contribs)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=apollobing&layout=compact)
 
 <!--
 **apollobing/apollobing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
